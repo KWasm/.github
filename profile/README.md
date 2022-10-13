@@ -1,0 +1,1 @@
+KWasm.sh is a project founded by [Liquis Reply](https://www.reply.com/liquid-reply/) employees. It should make it easy to discover and evaluate new technologies. **It is not intended to be used in production environments!** If you are interested in production-grade solutions, feel free to reach about to us.
